@@ -1,0 +1,100 @@
+Impar-Aerolíneas Atlántico
+Par-Vuelos Estelares
+Impar-AeroJet Internacional
+Par-SkyExpress
+Impar-AirLink
+Par-AeroMundo
+Impar-Alas del Cielo
+Par-AeroVeloz
+Impar-JetStream Airlines
+Par-Aerolínea Aurora
+Impar-AirFlyer
+Par-AeroSur
+Impar-Wingspan
+Par-AeroCaribe
+Impar-Vuelos Pacifico
+Par-SkyWings
+Impar-AeroNova
+Par-AirGlobal
+Impar-AeroNauta
+Par-JetConnect
+Impar-Aerolíneas del Sol
+Par-BlueBird Airlines
+Impar-AeroMar
+Par-AirLink Express
+Impar-JetPro
+Par-AeroLux
+Impar-Vuelos Andinos
+Par-SkyHopper
+Impar-AeroBreeze
+Par-AirSpeed
+Impar-AeroStar
+Par-WingsExpress
+Impar-AeroXpress
+Par-AirLink Connect
+Impar-JetExpress
+Par-AeroSuramerica
+Impar-SkyTransit
+Par-AeroCanarias
+Impar-AirConnect
+Par-AeroVenture
+Impar-JetWays
+Par-AeroMundo Express
+Impar-AirLink America
+Par-AeroWest
+Impar-WingsUnited
+Par-AeroVia
+Impar-Vuelos Amazonia
+Par-SkyConnect
+Impar-AeroAndes
+Par-AirTransit
+Impar-AeroPacific
+Par-JetSky
+Impar-AeroSur Express
+Par-Wingspan Connect
+Impar-AirLink Caribbean
+Par-AeroCaribe Internacional
+Impar-AeroLineas del Norte
+Par-JetWave
+Impar-AeroBaltic
+Par-SkyTrails
+Impar-AeroMagellan
+Par-AirLink Express Europa
+Impar-AeroPolares
+Par-Wingspeed
+Impar-AeroAustral
+Par-JetVoyager
+Impar-AeroCaribbean
+Par-SkyLink
+Impar-AeroMex
+Par-Vuelos Arcticos
+Impar-AeroLuso
+Par-AirConnect Asia
+Impar-AeroAlpes
+Par-Wingsun
+Impar-AeroPatagonia
+Par-JetGlobe
+Impar-AeroExpress
+Par-SkyQuest
+Impar-AeroFlyer
+Par-Vuelos Andalucia
+Impar-AeroNord
+Par-AirLink India
+Impar-AeroThai
+Par-WingsWay
+Impar-AeroCarpathian
+Par-AirConnect Middle East
+Impar-AeroBalkan
+Par-JetHorizon
+Impar-AeroIberia
+Par-SkyExplorer
+Impar-AeroBoreal
+Par-AeroLink Africa
+Impar-AeroMediterraneo
+Par-AirConnect Oceania
+Impar-AeroBoreal Express
+Par-JetTrail
+Impar-AeroAndalusia
+Par-Wingspan Asia
+Impar-AeroCarpathian Express
+Par-AirLink Europa
